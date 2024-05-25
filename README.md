@@ -15,6 +15,11 @@ Website: https://ecommerceshop-test.onrender.com
   - Email: 22022634@vnu.edu.vn
   - GitHub: [phamchien](https://github.com/phamchien)
 
+- Bùi Trọng Anh
+  - MSSV: 22022572
+  - Email: 22022572@vnu.edu.vn
+  - GitHub: [tronganh0104](https://github.com/tronganh0104)
+
 ## Bắt Đầu
 
 Hướng dẫn này sẽ giúp bạn có một bản sao của ECommerceShop chạy trên máy cục bộ của bạn để phát triển và kiểm thử.
